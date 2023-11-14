@@ -1,6 +1,6 @@
 # FastAPI + SQLAlchemy 2.0 Asyncio extension
 
-A simple web project using the Asyncio extension of SQLAlchemy 2.0 with FastAPI.
+A simple API Rest project using the Asyncio extension of SQLAlchemy 2.0 with FastAPI.
 
 # Setup
 
